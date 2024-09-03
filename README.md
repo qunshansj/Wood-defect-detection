@@ -41,7 +41,7 @@
 
 ### 3.视频演示
 
-[3.1 视频演示]()
+[3.1 视频演示](https://www.bilibili.com/video/BV1HrHWeUEu9/?vd_source=ff015de2d29cbe2a9cdbfa7064407a08)
 
 ### 4.数据集信息展示
 
@@ -824,3 +824,4 @@ def convert_coco(
 
 ![19.png](19.png)
 
+https://mbd.pub/o/bread/ZpqZm5ty
